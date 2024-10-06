@@ -12,12 +12,14 @@
    git clone https://github.com/StanislavBeliaev/user-search-app.git
 
 2. Установите зависимости:
-
+    
+    ```bash
     cd user-search-app
     npm install
 
 3. Запустите приложение:
 
+    ```bash
     npm start
 
 4. Откройте в браузере:
@@ -26,6 +28,7 @@
 
 5. Имена для тестирования приложения:
 
+    ```bash
     Leanne Graham
     Ervin Howell
     Clementine Bauch
@@ -39,6 +42,7 @@
 
 6. Запуск тестов:
 
+    ```bash
     npm test
 
 Используемые технологии:
